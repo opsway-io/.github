@@ -2,4 +2,4 @@
 
 Monitoring and operations platform.
 
-![homepage_hero](screenshot.webp)
+![homepage_hero](https://raw.githubusercontent.com/opsway-io/.github/main/profile/screenshot.webp)
