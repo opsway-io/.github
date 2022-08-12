@@ -33,7 +33,7 @@ Monitoring and operations platform.
                 <sub><b>PaulFarver</b></sub>
             </a>
             <br />
-            <span>Techno babel</span>
+            <span>Yaml engineer</span>
         </td>
         <td align="center">
             <a href="https://github.com/xario">
